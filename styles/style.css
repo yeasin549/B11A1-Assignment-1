@@ -33,6 +33,15 @@
 .bg-02{
     background-color: #FFC239;
 }
+.btn-03{
+    font-size: 18px;
+    padding: 13px 26px;
+    color: #FFFFFF;
+    font-weight: 700;
+    background-color: #006A50;
+    border: none;
+    border-radius: 5px;
+}
 
 
   /* nav section */
@@ -162,3 +171,50 @@ nav{
     
 }
 
+/* News Section */
+.section{
+    margin: 0 160px;
+    justify-content: space-between;
+}
+.news-title-1{
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 80px;
+}
+.news-description{
+    font-size: 16px;
+    color: rgba(14, 14, 14, 0.7) ;
+    margin-bottom: 32px;
+    
+    
+}
+
+.news-container{
+    display: flex;
+    margin-top: 32px;
+    gap: 32px;
+    padding: 48px;
+    background-color: #f5f2f2ad;
+    border-radius: 15px;
+    margin-bottom: 24px;
+    
+}
+
+.news-title-2{
+    font-size: 32px;
+    font-weight: 700;
+}
+.news-img{
+    border-radius: 10px;
+}
+.news-img-2{
+    margin-top: 12px;
+}
+.news-subtitile{
+    margin-top: 12px;
+    margin-bottom: 12px;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+}
+
+/* Donate For Bangladesh */
