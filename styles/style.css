@@ -15,7 +15,24 @@
 .black{
     color: #0E0E0E;
 }
+.btn-primary{
+    margin-bottom: 32px;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #5490F5;
+    padding: 11px 20px;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
 
+}
+
+.bg-01{
+    background-color: #09A15C;
+}
+.bg-02{
+    background-color: #FFC239;
+}
 
 
   /* nav section */
@@ -32,7 +49,6 @@ nav{
     padding: 13px 28px;
     border:1px solid #006A50;
     border-radius: 5px;
-    background-color: #F1F1F3;
     color: #006A50;
     font-weight: 700;
 }
@@ -69,5 +85,80 @@ nav{
     border: none;
     font-weight: 700;
     font-size: 18px;
+}
+
+/* The Vision of Future */
+
+.vision-card{
+    display: flex;
+    margin: 0 160px;
+    justify-content: space-around;
+    
+    
+    
+} 
+.vision-container{
+    width: 100%;
+    margin: 0 160px;
+    margin-top: 80px;
+}
+
+.vision-title{
+    font-size: 40px;
+    font-weight: 800;
+} 
+.vision-description{
+    margin-top: 24px;
+}
+.vision-category-1{
+    margin-top: 32px;
+    background-color: #a4c6f7;
+    width: 410.67px;
+    height: 300px;
+    border-radius: 15px;
+    margin-right: 24px;
+    padding: 32px;
+}
+.vision-category-2{
+    margin-top: 32px;
+    background-color: #C6E4D6;
+    width: 410.67px;
+    height: 300px;
+    border-radius: 15px;
+    margin-right: 24px;
+    padding: 32px;
+    
+}
+.vision-category-3{
+    margin-top: 32px;
+    background-color: #F7EBCF;
+    border-radius: 15px;
+    width: 410.67px;
+    height: 300px;
+    padding: 32px;
+    
+}
+
+  
+
+.catergory-img{
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+.catergor-title{
+    font-size: 20px;
+   
+}
+.category-description{
+    padding-top: 12px;
+    padding-bottom: 24px;
+    font-size: 16px;
+    
+}
+.category-description-2{
+    padding-top: 12px;
+    padding-bottom: 50px;
+    font-size: 16px;
+    
 }
 
