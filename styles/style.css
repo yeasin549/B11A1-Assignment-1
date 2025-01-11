@@ -173,6 +173,27 @@ nav{
     font-size: 16px;
     
 }
+/* chief adviser section */
+.chief-main{
+    width: 100%;
+    width: 1530px;
+    height: 125px;
+    background-color: #f2f5f3;
+    margin: 0 160px;
+    margin-top: 24px;
+    padding: 48px 24px;
+    border-radius: 10px;
+    
+  }
+  .chief-title{
+    font-size: 24px;
+    margin-top: 12px;
+  }
+  .chief-sub{
+    margin-top: 4px;
+    margin-bottom: 48px;
+  }
+
 
 /* News Section */
 .section{
