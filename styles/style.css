@@ -274,6 +274,81 @@ nav{
     border: none;
     border-radius: 15px;
     margin-bottom: 80px;
+    
 
 }
+
+/* Newsletter Section */
+.newsletter{
+    background-color: #D3F0E3 ;
+    padding: 80px 80px;
+    border-radius: 10px;
+    margin: 0 160px;
+    align-items: center;
+}
+.newsletter-title{
+    font-size: 40px;
+    font-weight: 800;
+    color: #0E0E0E;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.newsletter-description{
+    font-size: 16px;
+    color: #0E0E0E;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.news-form{
+    margin: 0 320px;
+    align-items: center;
+}
+
+
+.input-info{
+    font-size: 16px;
+    color: #0E0E0E;
+    width: 600px;
+    height: 55px;
+    border: none;
+    background-color: #e1e6e4;
+    border-radius: 5px;
+    
+    
+    
+    
+   
+    
+}
+.btn-for-sub{
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: #006A50;
+    padding: 17px 34px;
+    border: none;
+    border-radius: 5px;
+    margin-left: -15px;
+    display: inline-block;
+    padding: 17px 34px;
+    height: 60px;
+    
+    
+    
+
+
+}
+.newsletter-sub{
+    text-align: center;
+    font-size: 16px;
+    margin-top: 24px;
+    color: #757272;
+   
+    
+}
+
+.news-letter{
+    margin: 0 200px;
+}
+
 
