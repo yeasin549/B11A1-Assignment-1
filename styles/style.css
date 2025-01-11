@@ -26,6 +26,14 @@
     border-radius: 5px;
 
 }
+.btn-primary:hover{
+    background-color: #09A15C;
+    color: #FFFFFF;
+}
+.btn-primary-1:hover{
+    background-color: #5490F5;
+    color: #FFFFFF;
+}
 
 .bg-01{
     background-color: #09A15C;
@@ -45,6 +53,10 @@
     border: none;
     border-radius: 5px;
 }
+.btn-03:hover{
+    background-color: #e6148e;
+    color: #FFFFFF;
+}
 
 
   /* nav section */
@@ -63,6 +75,10 @@ nav{
     border-radius: 5px;
     color: #006A50;
     font-weight: 700;
+}
+.btn-1:hover{
+    background-color: #09A15C;
+    color: #FFFFFF;
 }
 
 /* banner section */
@@ -97,6 +113,10 @@ nav{
     border: none;
     font-weight: 700;
     font-size: 18px;
+}
+.btn-2:hover{
+    background-color: #4387ec;
+    color: #FFFFFF;
 }
 
 /* The Vision of Future */
@@ -269,6 +289,10 @@ nav{
     margin-right: 24px;
     
 }
+.donate-btn-1:hover{
+    background-color: #a10909;
+    color: #FFFFFF;
+}
 .input-design{
     width: 1150px;
     height: 64px;
@@ -297,6 +321,10 @@ nav{
     margin-bottom: 80px;
     
 
+}
+.btn-donate-02:hover{
+    background-color: #a10909;
+    color: #FFFFFF;
 }
 
 /* Newsletter Section */
@@ -355,9 +383,12 @@ nav{
     height: 60px;
     
     
-    
 
 
+}
+.btn-for-sub:hover{
+    background-color: #a10909;
+    color: #FFFFFF;
 }
 .newsletter-sub{
     text-align: center;
