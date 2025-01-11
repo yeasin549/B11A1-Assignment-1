@@ -200,11 +200,17 @@ nav{
     height: 125px;
     background-color: #f2f5f3;
     margin: 0 160px;
-    margin-top: 24px;
+    margin-top: 20px;
     padding: 48px 24px;
     border-radius: 10px;
     
+    
   }
+  .img-03{
+    position: absolute;
+    
+  }
+  
   .chief-title{
     font-size: 24px;
     margin-top: 12px;
@@ -297,7 +303,7 @@ nav{
     width: 1150px;
     height: 64px;
     text-align: center;
-    margin: 0 280px;
+    margin: 0 340px;
     font-size: 20px;
     border: none;
     background-color: #dfe2e0;
